@@ -147,3 +147,11 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Denkspur
+dist/
+dev-dist/
+test-results/
+playwright-report/
+blob-report/
+.vite/
