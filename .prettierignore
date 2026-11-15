@@ -1,0 +1,12 @@
+# Verbindliche, vorbereitete Dateien bleiben byte-genau unverändert
+src/core/db/migrations/
+src/core/model/types.ts
+src/core/api/contract.ts
+# Von Hand gepflegte Texte
+*.md
+pnpm-lock.yaml
+dist/
+dev-dist/
+public/
+test-results/
+playwright-report/
